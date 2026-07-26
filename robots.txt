@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-bvorq3.salamduit.xyz/sitemap.xml
